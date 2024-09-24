@@ -21,7 +21,7 @@ This project automatically renames screenshots using AI-generated descriptions. 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-screenshot-renamer.git
+   git clone https://github.com/fahmidme/ai-screenshot-renamer.git
    cd ai-screenshot-renamer
    ```
 
