@@ -1,5 +1,7 @@
 # AI-Powered Screenshot Renamer
 
+![ai screenshot renamer preview](https://github.com/user-attachments/assets/66f6a6d2-2df5-4cac-a516-a034709650e0)
+
 This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 
 ## Features
